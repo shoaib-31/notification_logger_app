@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603438573306",
+    "project_id": "take-me-back-564c5",
+    "storage_bucket": "take-me-back-564c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603438573306:android:705e20cbd27e18b4afcb43",
+        "android_client_info": {
+          "package_name": "com.example.notification_logger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ag7lJg_8lPIBrRUe3f-UpVcO5P5GFVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
